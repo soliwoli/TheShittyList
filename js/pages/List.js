@@ -99,7 +99,9 @@ export default {
                         </ol>
                     </template>
                     <p>
+                    <i>
                     Platformer List will eventually come, I promise.
+                    </i>
                     </p>
                     <h3>Submission Requirements</h3>
                     <p>
