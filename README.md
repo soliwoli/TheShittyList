@@ -1,14 +1,9 @@
-# Welcome to the Geometry Dash Shitty List template!
-
+# Welcome to the Creator Point 7 Demon List!
 # FAQ
 
 ---
 
 ### Website FAQ
-
-Can I use the Shitty List template?
-
-- Sure. Credits to the shitty list are embedded onto this template so keep that in.
 
 The website isn't loading! What can I do?
 
