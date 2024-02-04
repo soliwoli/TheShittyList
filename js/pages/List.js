@@ -100,7 +100,7 @@ export default {
                     </template>
                     <p>
                     <i>
-                    Platformer List will eventually come, I promise.
+                    Platformer List is in the works...
                     </i>
                     </p>
                     <h3>Submission Requirements</h3>
