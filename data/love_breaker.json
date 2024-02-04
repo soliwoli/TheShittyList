@@ -3,7 +3,7 @@
     "name": "Love Breaker",
     "author": "Asterisk",
     "creators": ["asterisk"],
-    "verifier": "Verifier",
+    "verifier": "asterisk",
     "verification": "https://www.youtube.com/",
     "percentToQualify": 100,
     "password": "Not Copyable",
