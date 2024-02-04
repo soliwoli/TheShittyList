@@ -3,14 +3,14 @@
     "name": "Wither",
     "author": "ice",
     "creators": ["ice"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/",
+    "verifier": "Sacrifice",
+    "verification": "https://www.youtube.com/watch?v=d6mOBqHzivI",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "ice",
-            "link": "https://www.youtube.com/",
+            "user": "sacrifice",
+            "link": "https://www.youtube.com/watch?v=d6mOBqHzivI",
             "percent": 100,
             "hz": 60
         }
