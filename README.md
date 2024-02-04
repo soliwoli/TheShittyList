@@ -35,9 +35,3 @@ What are some common reasons for the website not loading?
 
 ---
 
-## More Coming Soon!
-
-## Repo Maintainers:
-
-- Prometheus
-- Emonadeo
