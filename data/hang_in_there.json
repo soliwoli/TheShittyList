@@ -1,0 +1,18 @@
+{
+    "id": 229,
+    "name": "hang in there",
+    "author": "solicoli",
+    "creators": ["solicoli"],
+    "verifier": "solicoli",
+    "verification": "https://youtu.be/ZI1OWKYtW7I",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "solicoli",
+            "link": "https://youtu.be/ZI1OWKYtW7I",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
