@@ -3,7 +3,7 @@
     "name": "Iris",
     "author": "Asterisk",
     "creators": ["Asterisk"],
-    "verifier": "Solo_Creator",
+    "verifier": "Asterisk",
     "verification": "https://www.youtube.com/",
     "percentToQualify": "100",
     "password": "Free To Copy",
