@@ -7,4 +7,12 @@
     "verification": "none",
     "percentToQualify": 100,
     "password": "Not Copyable",
+    "records": [
+        {
+            "user": "xanuran",
+            "link": "none",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
 }
