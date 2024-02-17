@@ -1,0 +1,18 @@
+{
+    "id": 308,
+    "name": "Not Clubstep",
+    "author": "Xanuran",
+    "creators": ["Xanuran"],
+    "verifier": "lodomir",
+    "verification": "none",
+    "percentToQualify": 58,
+    "password": "No Password",
+    "records": [
+        {
+            "user": "Xanuran",
+            "link": "none",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
