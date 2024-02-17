@@ -1,6 +1,6 @@
 {
     "id": 285,
-    "name": "Colonauics",
+    "name": "Colonautics",
     "author": "nk87",
     "creators": ["nk87"],
     "verifier": "nk87",
@@ -9,10 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "0",
+            "user": "nk87",
             "link": "none",
-            "percent": 0,
-            "hz": 0
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
