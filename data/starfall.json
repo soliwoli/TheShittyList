@@ -1,0 +1,18 @@
+{
+    "id": 319,
+    "name": "Starfall",
+    "author": "OceanFlurry",
+    "creators": ["OceanFlurry"],
+    "verifier": "OceanFlurry",
+    "verification": "none",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "OceanFlurry",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
