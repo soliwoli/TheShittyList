@@ -1,16 +1,16 @@
 {
     "id": 267,
     "name": "FiveteEn",
-    "author": "zChar",
-    "creators": ["zChar"],
-    "verifier": "zChar",
-    "verification": "https://www.youtube.com/live/WZMQYtQLizI?si=oa8xetRsVZu953zq",
+    "author": "zchar",
+    "creators": ["zchar"],
+    "verifier": "zchar",
+    "verification": "none",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "zChar",
-            "link": "https://www.youtube.com/live/WZMQYtQLizI?si=oa8xetRsVZu953zq",
+            "user": "zchar",
+            "link": "none",
             "percent": 100,
             "hz": 60
         }
