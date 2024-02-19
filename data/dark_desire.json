@@ -1,0 +1,18 @@
+{
+    "id": 329,
+    "name": "Dark Desire",
+    "author": "Kubix",
+    "creators": ["kubix"],
+    "verifier": "kubix",
+    "verification": "https://www.youtube.com/",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "kubix",
+            "link": "https://www.youtube.com/",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
