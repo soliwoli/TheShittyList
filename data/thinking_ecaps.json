@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+           {
+            "user": "mathej",
+            "link": "https://www.youtube.com/watch?v=mB-JpkhLpig",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
