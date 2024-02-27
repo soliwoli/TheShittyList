@@ -4,13 +4,13 @@
     "author": "Asterisk",
     "creators": ["asterisk"],
     "verifier": "asterisk",
-    "verification": "https://www.youtube.com/",
+    "verification": "https://www.youtube.com/watch?v=fG6u4mpmgp8",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "asterisk",
-            "link": "https://www.youtube.com/",
+            "user": "mathej",
+            "link": "https://www.youtube.com/watch?v=fG6u4mpmgp8",
             "percent": 100,
             "hz": 60
         }
