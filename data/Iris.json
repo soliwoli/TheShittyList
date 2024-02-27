@@ -4,9 +4,15 @@
     "author": "Asterisk",
     "creators": ["Asterisk"],
     "verifier": "Asterisk",
-    "verification": "https://youtu.be/l6NJHIbHn_8 ",
+    "verification": "https://youtu.be/l6NJHIbHn_8",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "mathej",
+            "link": "https://youtu.be/l6NJHIbHn_8",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
