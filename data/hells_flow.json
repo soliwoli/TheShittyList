@@ -1,0 +1,18 @@
+{
+    "id": 366,
+    "name": "Hells Flow",
+    "author": "Kubix",
+    "creators": ["Kubix"],
+    "verifier": "Kubix",
+    "verification": "none",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Kubix",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
