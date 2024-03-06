@@ -1,0 +1,18 @@
+{
+    "id": 373,
+    "name": "bloom",
+    "author": "Mathey",
+    "creators": ["Mathey"],
+    "verifier": "Mathey",
+    "verification": "https://www.youtube.com/watch?v=eKf7WAQJ9Zc",
+    "percentToQualify": 57,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Mathej",
+            "link": "https://www.youtube.com/watch?v=eKf7WAQJ9Zc",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
