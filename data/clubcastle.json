@@ -1,0 +1,18 @@
+{
+    "id": 378,
+    "name": "clubcastle",
+    "author": "icdx2000",
+    "creators": ["icdx2000"],
+    "verifier": "ice",
+    "verification": "https://www.youtube.com/watch?v=E2T78o37b9E",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ice",
+            "link": "https://www.youtube.com/watch?v=E2T78o37b9E",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
