@@ -1,0 +1,18 @@
+{
+    "id": 377,
+    "name": "genesis",
+    "author": "icdx2000",
+    "creators": ["icdx2000"],
+    "verifier": "ice",
+    "verification": "https://www.youtube.com/watch?v=7PziEs6u5Is",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "ice",
+            "link": "https://www.youtube.com/watch?v=7PziEs6u5Is",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
